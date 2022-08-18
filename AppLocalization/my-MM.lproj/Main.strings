@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "မြန်မာ"; ObjectID = "FCd-Gp-hxk"; */
+"FCd-Gp-hxk.text" = "မြန်မာ";
+
+/* Class = "UILabel"; text = "Please select language"; ObjectID = "FJY-jG-s1Z"; */
+"FJY-jG-s1Z.text" = "Please select language";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "YvJ-nY-9hs"; */
+"YvJ-nY-9hs.text" = "English";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "bju-Tu-wbj"; */
+"bju-Tu-wbj.text" = "-";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "eM7-OK-jQq"; */
+"eM7-OK-jQq.text" = "-";
+
+/* Class = "UIButton"; configuration.title = "Select Language"; ObjectID = "qIg-Mr-jdH"; */
+"qIg-Mr-jdH.configuration.title" = "Select Language";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qIg-Mr-jdH"; */
+"qIg-Mr-jdH.normalTitle" = "Button";

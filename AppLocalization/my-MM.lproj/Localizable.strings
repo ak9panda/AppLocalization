@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  AppLocalization
+
+  Created by Aung Kyaw Phyo on 7/23/22.
+  
+*/
+"Testing" = "စမ်းသပ်ခြင်း";
+"Hello There" = "မဂ်လာပါ";
+"My name is cho phoo paing" = "ကျွန်မနာမည်က ချိုဖူးပိုင်ပါ";
+"Select Language" = "ဘာသာစကား ရွေးမယ်";
+"Please select language" = "ကျေးဇူးပြု၍ ဘာသာစကားရွေးပါ";
